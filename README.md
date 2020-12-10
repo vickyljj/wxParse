@@ -156,8 +156,4 @@ parsedata:{
 [微信小程序开发论坛](http://weappdev.com)
 垂直微信小程序开发交流社区
 
-可在网站扫描二维码进入我们的微信小程序群，也可以微信搜索"weappmsg"进入"小码消息"公众号
-![小码消息-weappmsg](screenshoot/weappmsg_qr.jpg)
-其他方式:合作qq群511389428
-
 
